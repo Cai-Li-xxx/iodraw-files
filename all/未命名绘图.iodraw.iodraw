@@ -10,13 +10,11 @@
         <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-4" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="585" width="70" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-5" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-5" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2rJqXaCe3cZ9PeJkeBIZ-4" target="2rJqXaCe3cZ9PeJkeBIZ-1">
+          <mxGeometry x="-0.2632" y="-35" relative="1" as="geometry">
             <mxPoint x="450" y="460" as="sourcePoint" />
             <mxPoint x="370" y="460" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="540" />
-            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
