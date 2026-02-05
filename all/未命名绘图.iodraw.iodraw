@@ -7,12 +7,6 @@
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-1" value="参会者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b_bK7AmRnZ1IJ37MB7he-5" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="490" as="sourcePoint" />
-            <mxPoint x="460" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
