@@ -41,7 +41,7 @@
           <mxGeometry x="160" y="510" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gAv6VbN0l6igOU3hucAi-12" value="是否匹配到答案" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="620" width="130" height="80" as="geometry" />
+          <mxGeometry x="160" y="600" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
