@@ -71,6 +71,9 @@
         <mxCell id="gAv6VbN0l6igOU3hucAi-21" value="记录到后台问题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="800" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gAv6VbN0l6igOU3hucAi-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
