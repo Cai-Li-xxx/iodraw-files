@@ -43,6 +43,9 @@
         <mxCell id="7inzTfE_pDmsUG64Xz0V-17" value="是否为超级管理员" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="330" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="l__CVbedQnysBAVppIPU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7inzTfE_pDmsUG64Xz0V-19" target="l__CVbedQnysBAVppIPU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-19" value="全模块操作权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="500" width="130" height="60" as="geometry" />
         </mxCell>
@@ -56,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-23" value="记录到后台问题库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="640" width="130" height="60" as="geometry" />
+          <mxGeometry x="330" y="620" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1050" width="130" height="40" as="geometry" />
