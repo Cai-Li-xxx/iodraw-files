@@ -13,7 +13,7 @@
         <mxCell id="7inzTfE_pDmsUG64Xz0V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-4" target="7inzTfE_pDmsUG64Xz0V-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;参会者登录小程序端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="7inzTfE_pDmsUG64Xz0V-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;管理员输入账号密码登录后台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="150" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-6" target="7inzTfE_pDmsUG64Xz0V-8" edge="1">
