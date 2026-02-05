@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-40" value="用户查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-40" value="标签查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="540" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-41" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-40" source="2rJqXaCe3cZ9PeJkeBIZ-14">
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-46" value="用户删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="760" width="90" height="60" as="geometry" />
+          <mxGeometry x="827" y="760" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-47" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-46" source="2rJqXaCe3cZ9PeJkeBIZ-14">
           <mxGeometry x="-0.173" y="-14" relative="1" as="geometry">
