@@ -28,6 +28,12 @@
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-16" value="查看个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-17" value="会议查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="365" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-18" value="查看个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
