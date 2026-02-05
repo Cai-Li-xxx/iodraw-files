@@ -43,7 +43,7 @@
         <mxCell id="ECvIHpM_edT79kM-bnFd-15" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;createMeeting&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="390" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ECvIHpM_edT79kM-bnFd-16" value="AiAssisant.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECvIHpM_edT79kM-bnFd-16" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;aiAssistantRaply&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="390" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-17" value="index.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
