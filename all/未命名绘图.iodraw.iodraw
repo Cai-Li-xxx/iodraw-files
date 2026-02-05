@@ -83,8 +83,8 @@
         <mxCell id="gAv6VbN0l6igOU3hucAi-23" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1050" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gAv6VbN0l6igOU3hucAi-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="gAv6VbN0l6igOU3hucAi-27" value="继续提问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="920" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
