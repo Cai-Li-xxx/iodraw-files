@@ -24,23 +24,6 @@
         <mxCell id="7inzTfE_pDmsUG64Xz0V-6" value="系统进行角色权限校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="7inzTfE_pDmsUG64Xz0V-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-10" target="7inzTfE_pDmsUG64Xz0V-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-10" value="系统接收问题进行判断" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="420" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-12" target="7inzTfE_pDmsUG64Xz0V-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-12" value="查询知识库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="510" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-17" target="7inzTfE_pDmsUG64Xz0V-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -57,8 +40,8 @@
             <mxPoint x="14" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-17" value="是否匹配到答案" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="600" width="130" height="80" as="geometry" />
+        <mxCell id="7inzTfE_pDmsUG64Xz0V-17" value="是否为超级管理员" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="330" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-19" target="7inzTfE_pDmsUG64Xz0V-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
