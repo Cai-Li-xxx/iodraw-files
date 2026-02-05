@@ -103,10 +103,16 @@
         <mxCell id="ECvIHpM_edT79kM-bnFd-33" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="570" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ECvIHpM_edT79kM-bnFd-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.515;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ECvIHpM_edT79kM-bnFd-1">
+        <mxCell id="ECvIHpM_edT79kM-bnFd-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="640" as="sourcePoint" />
+            <mxPoint x="398" y="310" as="sourcePoint" />
             <mxPoint x="398" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ECvIHpM_edT79kM-bnFd-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="320" as="sourcePoint" />
+            <mxPoint x="408" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
