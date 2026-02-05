@@ -67,7 +67,7 @@
         <mxCell id="ECvIHpM_edT79kM-bnFd-23" value="MeetingManage.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="630" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ECvIHpM_edT79kM-bnFd-24" value="MeetingDetail.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECvIHpM_edT79kM-bnFd-24" value="UserManage.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="630" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-25" value="AiAssisant.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
