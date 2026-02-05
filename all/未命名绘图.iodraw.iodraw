@@ -81,7 +81,7 @@
         <mxCell id="CfST8nCqrGicdxZ53Wky-58" value="查看报名状态、签到状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="990" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-59" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CfST8nCqrGicdxZ53Wky-59" value="会议签到、更新签到状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1090" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
