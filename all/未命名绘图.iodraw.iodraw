@@ -25,10 +25,10 @@
         <mxCell id="ECvIHpM_edT79kM-bnFd-8" value="MaterialList.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ECvIHpM_edT79kM-bnFd-9" value="MeetingDetail.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECvIHpM_edT79kM-bnFd-9" value="ApplyRecord.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="220" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ECvIHpM_edT79kM-bnFd-10" value="AiAssisant.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECvIHpM_edT79kM-bnFd-10" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="220" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
