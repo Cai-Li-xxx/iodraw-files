@@ -86,7 +86,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l__CVbedQnysBAVppIPU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l__CVbedQnysBAVppIPU-6" target="7inzTfE_pDmsUG64Xz0V-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="990" />
+              <mxPoint x="60" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="l__CVbedQnysBAVppIPU-6" value="继续管理操作" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="960" width="130" height="60" as="geometry" />
