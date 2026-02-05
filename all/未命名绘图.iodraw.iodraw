@@ -34,7 +34,7 @@
         <mxCell id="ECvIHpM_edT79kM-bnFd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="600" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ECvIHpM_edT79kM-bnFd-13" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;Login&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ECvIHpM_edT79kM-bnFd-13" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;login&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="390" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-14" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;getMeetingList&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
