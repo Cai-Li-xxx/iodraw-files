@@ -196,13 +196,22 @@
             <mxPoint x="113" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_bK7AmRnZ1IJ37MB7he-57" value="修改手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-57" value="查看注意事项" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="650" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="b_bK7AmRnZ1IJ37MB7he-57" source="b_bK7AmRnZ1IJ37MB7he-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="630" as="sourcePoint" />
             <mxPoint x="233" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-59" value="修改手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="420" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-60" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="b_bK7AmRnZ1IJ37MB7he-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="400" as="sourcePoint" />
+            <mxPoint x="773" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
