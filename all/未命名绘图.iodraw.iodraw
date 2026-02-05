@@ -106,7 +106,7 @@
             <mxPoint x="130" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_bK7AmRnZ1IJ37MB7he-35" value="智能体交互" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-35" value="会议报名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="560" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-36" value="会议详情查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -118,7 +118,7 @@
             <mxPoint x="440" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_bK7AmRnZ1IJ37MB7he-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="b_bK7AmRnZ1IJ37MB7he-1">
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_bK7AmRnZ1IJ37MB7he-1" target="b_bK7AmRnZ1IJ37MB7he-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="490" as="sourcePoint" />
             <mxPoint x="440" y="440" as="targetPoint" />
