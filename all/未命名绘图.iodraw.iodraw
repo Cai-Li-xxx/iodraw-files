@@ -45,21 +45,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-12" value="会议管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="90" height="60" as="geometry" />
+          <mxGeometry x="630" y="350" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-12" source="2rJqXaCe3cZ9PeJkeBIZ-1">
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-12" source="2rJqXaCe3cZ9PeJkeBIZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="453" as="sourcePoint" />
             <mxPoint x="880" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-14" value="标签管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="400" width="90" height="60" as="geometry" />
+          <mxGeometry x="620" y="450" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-14" source="2rJqXaCe3cZ9PeJkeBIZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="563" as="sourcePoint" />
             <mxPoint x="890" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-16" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="663" as="sourcePoint" />
+            <mxPoint x="860" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
