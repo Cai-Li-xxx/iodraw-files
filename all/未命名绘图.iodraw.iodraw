@@ -86,7 +86,7 @@
           <mxGeometry x="540" y="700" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-30" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="330" width="50" height="30" as="geometry" />
+          <mxGeometry x="340" y="320" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.399;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ECvIHpM_edT79kM-bnFd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,7 +101,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-33" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="50" height="30" as="geometry" />
+          <mxGeometry x="340" y="570" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ECvIHpM_edT79kM-bnFd-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ECvIHpM_edT79kM-bnFd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="640" as="sourcePoint" />
+            <mxPoint x="440" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
