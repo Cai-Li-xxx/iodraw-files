@@ -80,22 +80,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-28" value="微信快捷登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="90" height="60" as="geometry" />
+          <mxGeometry x="30" y="320" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b_bK7AmRnZ1IJ37MB7he-29" value="账号密码登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b_bK7AmRnZ1IJ37MB7he-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b_bK7AmRnZ1IJ37MB7he-9" target="b_bK7AmRnZ1IJ37MB7he-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="310" as="sourcePoint" />
             <mxPoint x="640" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_bK7AmRnZ1IJ37MB7he-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="b_bK7AmRnZ1IJ37MB7he-9" target="b_bK7AmRnZ1IJ37MB7he-29">
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="b_bK7AmRnZ1IJ37MB7he-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="320" as="sourcePoint" />
-            <mxPoint x="650" y="200" as="targetPoint" />
+            <mxPoint x="160" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b_bK7AmRnZ1IJ37MB7he-32" value="账号密码登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
