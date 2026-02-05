@@ -64,6 +64,9 @@
         <mxCell id="7inzTfE_pDmsUG64Xz0V-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1050" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="l__CVbedQnysBAVppIPU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7inzTfE_pDmsUG64Xz0V-27" target="l__CVbedQnysBAVppIPU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-27" value="执行对应权限管理操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="770" width="130" height="60" as="geometry" />
         </mxCell>
@@ -73,8 +76,14 @@
         <mxCell id="l__CVbedQnysBAVppIPU-1" value="会议、标签、资料、用户、广告管理等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="620" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l__CVbedQnysBAVppIPU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l__CVbedQnysBAVppIPU-4" target="l__CVbedQnysBAVppIPU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l__CVbedQnysBAVppIPU-4" value="系统自动记录操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="870" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l__CVbedQnysBAVppIPU-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
