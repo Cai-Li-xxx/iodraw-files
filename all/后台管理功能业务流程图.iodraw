@@ -73,6 +73,9 @@
         <mxCell id="l__CVbedQnysBAVppIPU-1" value="会议、标签、资料、用户、广告管理等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="620" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l__CVbedQnysBAVppIPU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="870" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
