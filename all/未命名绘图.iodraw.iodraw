@@ -58,19 +58,22 @@
           <mxGeometry x="170" y="720" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-50" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1410" width="130" height="40" as="geometry" />
+          <mxGeometry x="170" y="1410" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-53" target="CfST8nCqrGicdxZ53Wky-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-53" value="继续提问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1290" width="130" height="60" as="geometry" />
+        <mxCell id="CfST8nCqrGicdxZ53Wky-53" value="继续参会/浏览其他会议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1290" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-54" target="CfST8nCqrGicdxZ53Wky-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-54" value="系统生成报名记录，报名成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="810" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CfST8nCqrGicdxZ53Wky-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-56" target="CfST8nCqrGicdxZ53Wky-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-56" value="校验报名权限，下载会议资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="900" width="130" height="60" as="geometry" />
@@ -86,6 +89,9 @@
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-59" value="会议签到、更新签到状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1090" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CfST8nCqrGicdxZ53Wky-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-61" target="CfST8nCqrGicdxZ53Wky-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-61" value="会议结束，查看历史资料与常见问题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1180" width="130" height="60" as="geometry" />
