@@ -35,13 +35,22 @@
             <mxPoint x="420" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-10" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="330" width="90" height="60" as="geometry" />
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-10" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-10">
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-10" source="2rJqXaCe3cZ9PeJkeBIZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="423" as="sourcePoint" />
-            <mxPoint x="460" y="460" as="targetPoint" />
+            <mxPoint x="720" y="333" as="sourcePoint" />
+            <mxPoint x="770" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-12" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rJqXaCe3cZ9PeJkeBIZ-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2rJqXaCe3cZ9PeJkeBIZ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="413" as="sourcePoint" />
+            <mxPoint x="780" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
