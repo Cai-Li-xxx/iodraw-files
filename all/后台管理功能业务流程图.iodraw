@@ -58,7 +58,7 @@
         <mxCell id="763zSkw-kFOtc45LSNve-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-23" target="7inzTfE_pDmsUG64Xz0V-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-23" value="记录到后台问题库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7inzTfE_pDmsUG64Xz0V-23" value="资料审核、报名查询、广告编辑等" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="620" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
