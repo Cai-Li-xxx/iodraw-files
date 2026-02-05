@@ -8,13 +8,13 @@
           <mxGeometry x="90" y="130" width="600" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-2" value="Login.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="150" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-3" value="Meeting.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-5" value="MeetingDetail.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="130" height="30" as="geometry" />
+          <mxGeometry x="380" y="150" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ECvIHpM_edT79kM-bnFd-6" value="AiAssisant.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="150" width="130" height="50" as="geometry" />
