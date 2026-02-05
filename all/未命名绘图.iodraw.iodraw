@@ -71,11 +71,6 @@
         <mxCell id="gAv6VbN0l6igOU3hucAi-18" value="返回该问题未收录，请联系工作人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="710" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gAv6VbN0l6igOU3hucAi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gAv6VbN0l6igOU3hucAi-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gAv6VbN0l6igOU3hucAi-21" value="记录到后台问题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="800" width="130" height="60" as="geometry" />
         </mxCell>
