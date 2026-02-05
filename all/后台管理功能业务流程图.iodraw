@@ -46,8 +46,8 @@
         <mxCell id="7inzTfE_pDmsUG64Xz0V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-19" target="7inzTfE_pDmsUG64Xz0V-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7inzTfE_pDmsUG64Xz0V-19" value="生成精准回答并展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="710" width="130" height="60" as="geometry" />
+        <mxCell id="7inzTfE_pDmsUG64Xz0V-19" value="全模块操作权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="500" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7inzTfE_pDmsUG64Xz0V-21" target="7inzTfE_pDmsUG64Xz0V-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
