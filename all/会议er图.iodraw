@@ -756,7 +756,7 @@
         <mxCell id="C7r4lffogesMoiokEjvS-55" value="registration_time" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1015" y="570" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7r4lffogesMoiokEjvS-56" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="C7r4lffogesMoiokEjvS-55" source="C7r4lffogesMoiokEjvS-43">
+        <mxCell id="C7r4lffogesMoiokEjvS-56" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="C7r4lffogesMoiokEjvS-55" source="C7r4lffogesMoiokEjvS-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="565" as="sourcePoint" />
             <mxPoint x="905" y="695" as="targetPoint" />
@@ -769,6 +769,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="889" y="690" as="sourcePoint" />
             <mxPoint x="634" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7r4lffogesMoiokEjvS-60" value="schedules_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="886.5" y="630" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C7r4lffogesMoiokEjvS-61" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="C7r4lffogesMoiokEjvS-60" source="C7r4lffogesMoiokEjvS-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1021.5" y="720" as="sourcePoint" />
+            <mxPoint x="766.5" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
