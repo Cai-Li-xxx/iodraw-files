@@ -699,7 +699,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C7r4lffogesMoiokEjvS-43" value="xhlj_meeting_upload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="784" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="826.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C7r4lffogesMoiokEjvS-44" value="关联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="435" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
