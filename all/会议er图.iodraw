@@ -940,14 +940,14 @@
         <mxCell id="C7r4lffogesMoiokEjvS-100" value="file_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159.5" y="830" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7r4lffogesMoiokEjvS-101" value="" style="endArrow=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C7r4lffogesMoiokEjvS-102">
+        <mxCell id="C7r4lffogesMoiokEjvS-101" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C7r4lffogesMoiokEjvS-102" target="C7r4lffogesMoiokEjvS-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="682.4093924443059" y="813.6748558866132" as="sourcePoint" />
-            <mxPoint x="937" y="850" as="targetPoint" />
+            <mxPoint x="-136.84060755569408" y="673.6748558866132" as="sourcePoint" />
+            <mxPoint x="117.75" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C7r4lffogesMoiokEjvS-102" value="phone" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="966.5" y="900" width="95" height="60" as="geometry" />
+        <mxCell id="C7r4lffogesMoiokEjvS-102" value="meeting_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.25" y="760" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
