@@ -29,7 +29,7 @@
           <mxGeometry x="385" y="290" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-12" value="提供" style="rhombus;whiteSpace=wrap;html=1;rotation=-10;" parent="1" vertex="1">
-          <mxGeometry x="634" y="230" width="80" height="50" as="geometry" />
+          <mxGeometry x="580" y="250" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-13" value="n" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OzUWqSwu6y4oOT9SlLRh-6" target="OzUWqSwu6y4oOT9SlLRh-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -113,7 +113,7 @@
           <mxGeometry x="926.5" y="310" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-33" value="download_count" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="649" y="280" width="95" height="60" as="geometry" />
+          <mxGeometry x="636.5" y="285" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-34" value="id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="646.5" y="150" width="95" height="60" as="geometry" />
