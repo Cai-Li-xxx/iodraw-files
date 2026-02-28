@@ -8,7 +8,7 @@
           <mxGeometry x="365" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-2" value="xhlj_meeting_tag(会议标签表)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-58" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="-51" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-3" value="xhlj_meeting_files(会议文件表)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="786.5" y="210" width="120" height="60" as="geometry" />
@@ -637,7 +637,7 @@
         <mxCell id="C7r4lffogesMoiokEjvS-28" value="xhlj_meeting_tag_relation&lt;div&gt;（会议-标签关联表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="360" width="144" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C7r4lffogesMoiokEjvS-29" value="关联" style="rhombus;whiteSpace=wrap;html=1;rotation=-75;" vertex="1" parent="1">
+        <mxCell id="C7r4lffogesMoiokEjvS-29" value="关联" style="rhombus;whiteSpace=wrap;html=1;rotation=-95;" vertex="1" parent="1">
           <mxGeometry x="-26.5" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C7r4lffogesMoiokEjvS-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C7r4lffogesMoiokEjvS-29" target="C7r4lffogesMoiokEjvS-28">
