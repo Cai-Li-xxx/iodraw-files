@@ -631,7 +631,7 @@
             <mxPoint x="-410" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C7r4lffogesMoiokEjvS-28" value="xhlj_meeting_tag_relation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C7r4lffogesMoiokEjvS-28" value="xhlj_meeting_tag_relation&lt;div&gt;（会议-标签关联表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="360" width="144" height="60" as="geometry" />
         </mxCell>
       </root>
