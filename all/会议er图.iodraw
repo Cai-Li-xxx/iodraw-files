@@ -19,7 +19,7 @@
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-5" value="xhlj_meeting_schedules(会议议程表)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="100" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OzUWqSwu6y4oOT9SlLRh-6" value="提供" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OzUWqSwu6y4oOT9SlLRh-6" value="关联" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="365" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OzUWqSwu6y4oOT9SlLRh-10" value="提供" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
             <mxPoint x="278.5" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzUWqSwu6y4oOT9SlLRh-14" value="m" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OzUWqSwu6y4oOT9SlLRh-2" target="OzUWqSwu6y4oOT9SlLRh-6" edge="1">
+        <mxCell id="OzUWqSwu6y4oOT9SlLRh-14" value="m" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="C7r4lffogesMoiokEjvS-28" target="OzUWqSwu6y4oOT9SlLRh-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-340" y="535" as="sourcePoint" />
             <mxPoint x="-290" y="485" as="targetPoint" />
@@ -632,7 +632,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C7r4lffogesMoiokEjvS-28" value="xhlj_meeting_tag_relation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="425" width="144" height="60" as="geometry" />
+          <mxGeometry x="-70" y="360" width="144" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
