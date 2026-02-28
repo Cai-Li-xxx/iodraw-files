@@ -828,8 +828,17 @@
             <mxPoint x="965" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C7r4lffogesMoiokEjvS-73" value="meeting_content" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="C7r4lffogesMoiokEjvS-73" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="810" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C7r4lffogesMoiokEjvS-76" value="" style="endArrow=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C7r4lffogesMoiokEjvS-77" target="C7r4lffogesMoiokEjvS-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="642.4093924443059" y="773.6748558866132" as="sourcePoint" />
+            <mxPoint x="906.5" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7r4lffogesMoiokEjvS-77" value="meeting_content" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="931.5" y="890" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
