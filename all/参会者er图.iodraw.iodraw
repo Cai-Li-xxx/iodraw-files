@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-57" value="查看注意事项" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="120" y="670" width="90" height="60" as="geometry" />
+          <mxGeometry x="80" y="670" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-58" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="b_bK7AmRnZ1IJ37MB7he-36" target="b_bK7AmRnZ1IJ37MB7he-57" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -239,7 +239,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-66" value="下载记录管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="450" y="860" width="90" height="60" as="geometry" />
+          <mxGeometry x="450" y="860" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b_bK7AmRnZ1IJ37MB7he-67" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="b_bK7AmRnZ1IJ37MB7he-66" target="b_bK7AmRnZ1IJ37MB7he-68" edge="1">
           <mxGeometry x="-0.5333" y="-13" relative="1" as="geometry">
