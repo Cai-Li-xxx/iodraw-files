@@ -37,7 +37,7 @@
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="7inzTfE_pDmsUG64Xz0V-15" vertex="1" connectable="0">
           <mxGeometry x="-0.5303" y="-1" relative="1" as="geometry">
-            <mxPoint x="14" y="-11" as="offset" />
+            <mxPoint x="10" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-17" value="是否为超级管理员" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-23" value="资料审核、报名查询、广告编辑等" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="330" y="620" width="130" height="60" as="geometry" />
+          <mxGeometry x="330" y="620" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="160" y="1060" width="130" height="40" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l__CVbedQnysBAVppIPU-1" value="会议、标签、资料、用户、广告管理等" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="160" y="620" width="130" height="60" as="geometry" />
+          <mxGeometry x="160" y="620" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l__CVbedQnysBAVppIPU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="l__CVbedQnysBAVppIPU-4" target="l__CVbedQnysBAVppIPU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
