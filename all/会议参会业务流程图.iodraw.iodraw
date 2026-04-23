@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-58" value="查看报名状态、签到状态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="990" width="130" height="60" as="geometry" />
+          <mxGeometry x="170" y="1000" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-59" target="CfST8nCqrGicdxZ53Wky-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-61" value="会议结束，查看历史资料与常见问题" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="1180" width="130" height="60" as="geometry" />
+          <mxGeometry x="170" y="1180" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
