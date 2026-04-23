@@ -75,10 +75,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-23" value="记录到后台问题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="350" y="800" width="130" height="60" as="geometry" />
+          <mxGeometry x="355" y="820" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1050" width="130" height="40" as="geometry" />
+          <mxGeometry x="175" y="1050" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7inzTfE_pDmsUG64Xz0V-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="7inzTfE_pDmsUG64Xz0V-27" target="7inzTfE_pDmsUG64Xz0V-8" edge="1">
           <mxGeometry relative="1" as="geometry">
