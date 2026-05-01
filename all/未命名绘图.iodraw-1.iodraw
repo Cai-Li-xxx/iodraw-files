@@ -153,16 +153,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-51">
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="485" y="880" />
-              <mxPoint x="745" y="880" />
+              <mxPoint x="640" y="880" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-48">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-39" value="游客服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="425" y="770" width="120" height="60" as="geometry" />
@@ -203,7 +200,7 @@
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-51" target="Nca-WIe9jnWBt1GgXlOZ-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-51" value="论坛管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-51" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="820" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-57" value="门&lt;div&gt;票&lt;/div&gt;&lt;div&gt;预&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
