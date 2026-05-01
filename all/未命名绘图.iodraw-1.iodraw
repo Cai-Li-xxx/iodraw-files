@@ -53,6 +53,9 @@
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-10" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-3" target="Nca-WIe9jnWBt1GgXlOZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-3" value="景点管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -83,6 +86,12 @@
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-16" value="用&lt;div style=&quot;font-size: 20px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;息&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;维&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="215" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-18" value="用&lt;div style=&quot;font-size: 20px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;息&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;维&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="35" y="470" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-19" value="用&lt;div style=&quot;font-size: 20px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;息&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;维&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="45" y="480" width="70" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
