@@ -69,7 +69,7 @@
           <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-5" value="酒店预订管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="540" y="340" width="130" height="60" as="geometry" />
+          <mxGeometry x="550" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-6" value="论坛管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
@@ -100,10 +100,10 @@
           <mxGeometry x="450" y="450" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-22" value="酒&lt;div&gt;店&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="530" y="450" width="70" height="180" as="geometry" />
+          <mxGeometry x="540" y="450" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-23" value="酒&lt;div&gt;店&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="620" y="450" width="70" height="180" as="geometry" />
+          <mxGeometry x="660" y="450" width="70" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
