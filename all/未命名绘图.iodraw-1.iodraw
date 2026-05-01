@@ -75,8 +75,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-14" value="用户信息维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-14" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="430" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
