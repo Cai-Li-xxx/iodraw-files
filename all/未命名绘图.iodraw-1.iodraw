@@ -19,8 +19,11 @@
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-5" value="酒店预订管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-6" value="论坛管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
