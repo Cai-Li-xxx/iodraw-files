@@ -47,6 +47,9 @@
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-1" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-2" target="Nca-WIe9jnWBt1GgXlOZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-10" y="340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -76,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-14" value="用&lt;div style=&quot;font-size: 20px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;息&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;维&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="15" y="450" width="70" height="60" as="geometry" />
+          <mxGeometry x="15" y="450" width="70" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
