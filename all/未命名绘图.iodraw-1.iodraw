@@ -137,6 +137,138 @@
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-31" value="咨&lt;div&gt;询&lt;/div&gt;&lt;div&gt;内&lt;/div&gt;&lt;div&gt;容&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1000" y="450" width="70" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="260" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="440" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="625" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="790" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="995" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-39" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Nca-WIe9jnWBt1GgXlOZ-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-42" target="Nca-WIe9jnWBt1GgXlOZ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-42" value="景点管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-45" target="Nca-WIe9jnWBt1GgXlOZ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-45" target="Nca-WIe9jnWBt1GgXlOZ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-45" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-48" target="Nca-WIe9jnWBt1GgXlOZ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-48" target="Nca-WIe9jnWBt1GgXlOZ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-48" value="酒店预订管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-51" target="Nca-WIe9jnWBt1GgXlOZ-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-51" target="Nca-WIe9jnWBt1GgXlOZ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-51" value="论坛管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="730" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-54" target="Nca-WIe9jnWBt1GgXlOZ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-54" target="Nca-WIe9jnWBt1GgXlOZ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-54" value="新闻咨询管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="930" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="60" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="60" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-56" value="用&lt;div style=&quot;font-size: 20px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;信&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;息&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;维&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="25" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-57" value="景&lt;div&gt;点&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="225" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-58" value="门&lt;div&gt;票&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="354" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-59" value="酒&lt;div&gt;店&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-60" value="客&lt;div&gt;房&lt;/div&gt;&lt;div&gt;预&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-61" value="客&lt;div&gt;房&lt;/div&gt;&lt;div&gt;内&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="650" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-62" value="论&lt;div&gt;坛&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="730" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-63" value="论&lt;div&gt;坛&lt;/div&gt;&lt;div&gt;帖&lt;/div&gt;&lt;div&gt;子&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="810" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-64" value="咨&lt;div&gt;询&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="910" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-65" value="咨&lt;div&gt;询&lt;/div&gt;&lt;div&gt;内&lt;/div&gt;&lt;div&gt;容&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="460" width="70" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
