@@ -20,32 +20,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="280" />
-              <mxPoint x="615" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-1" target="Nca-WIe9jnWBt1GgXlOZ-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="280" />
-              <mxPoint x="780" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Nca-WIe9jnWBt1GgXlOZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-1" target="Nca-WIe9jnWBt1GgXlOZ-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="280" />
-              <mxPoint x="985" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-1" value="后台管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="460" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -77,7 +51,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-6" value="论坛管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="720" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-7" target="Nca-WIe9jnWBt1GgXlOZ-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-7" value="新闻咨询管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="920" y="340" width="130" height="60" as="geometry" />
+          <mxGeometry x="790" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-1" target="Nca-WIe9jnWBt1GgXlOZ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,16 +85,16 @@
           <mxGeometry x="450" y="450" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-26" value="论&lt;div&gt;坛&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="720" y="450" width="70" height="180" as="geometry" />
+          <mxGeometry x="590" y="450" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-27" value="论&lt;div&gt;坛&lt;/div&gt;&lt;div&gt;帖&lt;/div&gt;&lt;div&gt;子&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="800" y="450" width="70" height="180" as="geometry" />
+          <mxGeometry x="670" y="450" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-30" value="咨&lt;div&gt;询&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="900" y="450" width="70" height="180" as="geometry" />
+          <mxGeometry x="770" y="450" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-31" value="咨&lt;div&gt;询&lt;/div&gt;&lt;div&gt;内&lt;/div&gt;&lt;div&gt;容&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="450" width="70" height="180" as="geometry" />
+          <mxGeometry x="870" y="450" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Nca-WIe9jnWBt1GgXlOZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Nca-WIe9jnWBt1GgXlOZ-39" target="Nca-WIe9jnWBt1GgXlOZ-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
