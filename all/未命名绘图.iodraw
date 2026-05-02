@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-1" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-1" value="游客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="130" y="585" width="80" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-2" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-2" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="339" y="410" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-3" value="景点信息浏览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="510" width="150" height="90" as="geometry" />
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-3" value="景点信息浏览" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="339" y="520" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
