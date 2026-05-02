@@ -1795,12 +1795,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-439" value="退票原因" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-850" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="-530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-440" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-439">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-440" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-439" source="LA4qqZWZyZ-H70sfI4bh-405">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="628" y="-660" as="sourcePoint" />
             <mxPoint x="728" y="-282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-441" value="退订门票ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-442" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-441">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="638" y="-650" as="sourcePoint" />
+            <mxPoint x="738" y="-272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
