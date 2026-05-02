@@ -1696,7 +1696,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-417" value="景点名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-770" width="120" height="80" as="geometry" />
+          <mxGeometry x="730" y="-750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-418" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-417" source="LA4qqZWZyZ-H70sfI4bh-405">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1705,7 +1705,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-419" value="景点类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-680" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="-660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-420" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-419" source="LA4qqZWZyZ-H70sfI4bh-405">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1806,10 +1806,19 @@
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-441" value="退票时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="790" y="-840" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-442" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-441">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-442" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-441" source="LA4qqZWZyZ-H70sfI4bh-405">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="638" y="-650" as="sourcePoint" />
             <mxPoint x="738" y="-272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-444" value="退订门票ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-445" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-444">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258" y="-880" as="sourcePoint" />
+            <mxPoint x="358" y="-502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
