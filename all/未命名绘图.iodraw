@@ -183,7 +183,7 @@
             <mxPoint x="-16" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-56" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WbLB6qb5v0eHQtVMuaCp-8" target="WbLB6qb5v0eHQtVMuaCp-34" edge="1">
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-56" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="WbLB6qb5v0eHQtVMuaCp-8" target="WbLB6qb5v0eHQtVMuaCp-34" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="547" y="503" as="sourcePoint" />
             <mxPoint x="692" y="407" as="targetPoint" />
@@ -257,6 +257,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CU-MXhogAJw01CLPIvTh-7" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="CU-MXhogAJw01CLPIvTh-6">
+          <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
+            <mxPoint x="-16" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CU-MXhogAJw01CLPIvTh-8" value="帖子管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1490" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CU-MXhogAJw01CLPIvTh-9" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="CU-MXhogAJw01CLPIvTh-8" source="WbLB6qb5v0eHQtVMuaCp-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="1565" as="sourcePoint" />
+            <mxPoint x="692" y="497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CU-MXhogAJw01CLPIvTh-10" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="CU-MXhogAJw01CLPIvTh-9">
           <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
             <mxPoint x="-16" y="-30" as="offset" />
           </mxGeometry>
