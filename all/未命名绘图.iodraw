@@ -13,13 +13,16 @@
         <mxCell id="CfST8nCqrGicdxZ53Wky-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-30" target="CfST8nCqrGicdxZ53Wky-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u3zOLErY4Gq5_9dt65u4-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-30" target="CfST8nCqrGicdxZ53Wky-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-30" value="管理员登录后台" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="160" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-32" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="260" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-38" value="酒店" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CfST8nCqrGicdxZ53Wky-38" value="景点/酒店资源维护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="260" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-45" target="CfST8nCqrGicdxZ53Wky-54" edge="1">
@@ -39,6 +42,9 @@
         </mxCell>
         <mxCell id="sEcNSU8wh5ZRGhBZ7rCf-1" value="管理员审核" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="570" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u3zOLErY4Gq5_9dt65u4-1" value="景点/酒店资源维护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="270" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
