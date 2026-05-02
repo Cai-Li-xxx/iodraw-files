@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-19" value="状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="365" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-19" source="LA4qqZWZyZ-H70sfI4bh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,6 +123,9 @@
             <mxPoint x="310" y="390" as="sourcePoint" />
             <mxPoint x="430" y="299" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-30" value="用户&lt;div style=&quot;font-size: 20px;&quot;&gt;yonghu&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
