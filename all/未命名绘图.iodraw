@@ -29,7 +29,7 @@
           <mxGeometry x="210" y="1430" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-9" value="资讯管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="189" y="1600" width="150" height="90" as="geometry" />
+          <mxGeometry x="100" y="1770" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.093;entryY=0.822;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WbLB6qb5v0eHQtVMuaCp-1" target="WbLB6qb5v0eHQtVMuaCp-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,13 +98,13 @@
           <mxGeometry x="570" y="1400" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-35" value="订单查询" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1650" width="150" height="90" as="geometry" />
+          <mxGeometry x="540" y="1830" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-36" value="收藏管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1790" width="150" height="90" as="geometry" />
+          <mxGeometry x="527" y="1900" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-37" value="资料维护" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="590" y="1530" width="150" height="90" as="geometry" />
+          <mxGeometry x="527" y="1730" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-39" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="WbLB6qb5v0eHQtVMuaCp-2" target="WbLB6qb5v0eHQtVMuaCp-18" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -247,7 +247,7 @@
             <mxPoint x="-16" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CU-MXhogAJw01CLPIvTh-5" value="查看咨询查询" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="CU-MXhogAJw01CLPIvTh-5" value="攻略维护" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="580" y="1280" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CU-MXhogAJw01CLPIvTh-6" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="CU-MXhogAJw01CLPIvTh-5" source="WbLB6qb5v0eHQtVMuaCp-7">
