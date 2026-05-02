@@ -1486,12 +1486,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-369" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-340" width="120" height="80" as="geometry" />
+          <mxGeometry x="-110" y="-370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-370" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-369" source="LA4qqZWZyZ-H70sfI4bh-361">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="-205" as="sourcePoint" />
             <mxPoint x="-252" y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-371" value="标题" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-372" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-371">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="-195" as="sourcePoint" />
+            <mxPoint x="-242" y="78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
