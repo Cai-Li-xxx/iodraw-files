@@ -80,10 +80,10 @@
           <mxGeometry x="677" y="400" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-20" value="填写预约信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="580" y="630" width="150" height="90" as="geometry" />
+          <mxGeometry x="670" y="590" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-21" value="提交门票订单" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="580" y="740" width="150" height="90" as="geometry" />
+          <mxGeometry x="670" y="710" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-30" value="浏览酒店资源" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="580" y="850" width="150" height="90" as="geometry" />
@@ -149,6 +149,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-47" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="WbLB6qb5v0eHQtVMuaCp-46">
+          <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
+            <mxPoint x="-16" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-48" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="507" y="463" as="sourcePoint" />
+            <mxPoint x="652" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-49" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="WbLB6qb5v0eHQtVMuaCp-48">
           <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
             <mxPoint x="-16" y="-30" as="offset" />
           </mxGeometry>
