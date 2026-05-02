@@ -264,7 +264,7 @@
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-62" value="举报" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="680" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LA4qqZWZyZ-H70sfI4bh-62" target="LA4qqZWZyZ-H70sfI4bh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="650" as="sourcePoint" />
             <mxPoint x="500" y="470" as="targetPoint" />
@@ -274,6 +274,9 @@
           <mxGeometry x="-0.2794" relative="1" as="geometry">
             <mxPoint x="20" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-65" value="旅游论坛&lt;div&gt;forum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="440" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
