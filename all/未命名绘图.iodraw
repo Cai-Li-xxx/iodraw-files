@@ -420,9 +420,9 @@
             <mxPoint x="20" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-103" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LA4qqZWZyZ-H70sfI4bh-105" target="LA4qqZWZyZ-H70sfI4bh-98">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="940" as="sourcePoint" />
+            <mxPoint x="490" y="1450" as="sourcePoint" />
             <mxPoint x="500" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -430,6 +430,9 @@
           <mxGeometry x="0.0075" y="-1" relative="1" as="geometry">
             <mxPoint x="9" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-105" value="旅游论坛&lt;div&gt;forum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
