@@ -462,18 +462,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-112" value="景点信息&lt;div&gt;jingdianxinxi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="-330" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-113" value="评论收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="-190" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-115" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-112">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-115" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LA4qqZWZyZ-H70sfI4bh-113" target="LA4qqZWZyZ-H70sfI4bh-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="650" as="sourcePoint" />
             <mxPoint x="500" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-116" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="LA4qqZWZyZ-H70sfI4bh-115">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-116" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="LA4qqZWZyZ-H70sfI4bh-115">
           <mxGeometry x="-0.2794" relative="1" as="geometry">
             <mxPoint x="20" y="4" as="offset" />
           </mxGeometry>
