@@ -16,29 +16,30 @@
         <mxCell id="CfST8nCqrGicdxZ53Wky-30" value="浏览景点详情" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="160" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-32" target="CfST8nCqrGicdxZ53Wky-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CfST8nCqrGicdxZ53Wky-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-32" value="进入会议列表页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CfST8nCqrGicdxZ53Wky-32" value="点击购票" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="250" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-34" target="CfST8nCqrGicdxZ53Wky-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CfST8nCqrGicdxZ53Wky-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="400" as="sourcePoint" />
+            <mxPoint x="235" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-34" value="关键词搜索筛选会议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="340" width="130" height="60" as="geometry" />
+        <mxCell id="CfST8nCqrGicdxZ53Wky-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="500" as="sourcePoint" />
+            <mxPoint x="235" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-36" target="CfST8nCqrGicdxZ53Wky-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-36" value="选择会议，进入会议详情页面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="430" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-38" target="CfST8nCqrGicdxZ53Wky-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-38" value="查看会议信息、议程、关联资料" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="520" width="130" height="70" as="geometry" />
+        <mxCell id="CfST8nCqrGicdxZ53Wky-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CfST8nCqrGicdxZ53Wky-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="590" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-43" target="CfST8nCqrGicdxZ53Wky-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
