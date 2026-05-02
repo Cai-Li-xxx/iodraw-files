@@ -100,10 +100,10 @@
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-23" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.184;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-23">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-23" source="LA4qqZWZyZ-H70sfI4bh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="532" y="481" as="sourcePoint" />
-            <mxPoint x="740" y="350" as="targetPoint" />
+            <mxPoint x="514.43" y="480" as="sourcePoint" />
+            <mxPoint x="490.00359312880727" y="237.2842712474619" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-25" value="账号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
