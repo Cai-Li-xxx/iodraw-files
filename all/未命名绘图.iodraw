@@ -651,8 +651,11 @@
             <mxPoint x="110" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-179" value="用户&lt;div style=&quot;font-size: 20px;&quot;&gt;yonghu&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-179" value="酒店资源&lt;div&gt;jiudianziyuan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1020" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-180" value="评论收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="330" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
