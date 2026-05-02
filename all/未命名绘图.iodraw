@@ -13,7 +13,7 @@
         <mxCell id="CfST8nCqrGicdxZ53Wky-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-30" target="CfST8nCqrGicdxZ53Wky-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-30" value="用户编写旅游攻略" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CfST8nCqrGicdxZ53Wky-30" value="管理员登录后台" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="160" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UWG9zyG8TVUnrtbWEr3B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-32" target="CfST8nCqrGicdxZ53Wky-38" edge="1">
