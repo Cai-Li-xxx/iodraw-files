@@ -74,10 +74,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-18" value="用户注册" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="590" y="250" width="150" height="90" as="geometry" />
+          <mxGeometry x="620" y="250" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-19" value="查看景点详情" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="620" y="400" width="150" height="90" as="geometry" />
+          <mxGeometry x="677" y="400" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-20" value="填写预约信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="580" y="630" width="150" height="90" as="geometry" />
@@ -127,6 +127,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-43" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="WbLB6qb5v0eHQtVMuaCp-42">
+          <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
+            <mxPoint x="-16" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-44" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WbLB6qb5v0eHQtVMuaCp-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="487" y="443" as="sourcePoint" />
+            <mxPoint x="632" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-45" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="WbLB6qb5v0eHQtVMuaCp-44">
           <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
             <mxPoint x="-16" y="-30" as="offset" />
           </mxGeometry>
