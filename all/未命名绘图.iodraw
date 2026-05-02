@@ -170,8 +170,8 @@
             <mxPoint x="699" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-42" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1120" width="120" height="80" as="geometry" />
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-42" value="帖子标题" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-42" source="LA4qqZWZyZ-H70sfI4bh-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
