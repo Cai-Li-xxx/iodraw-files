@@ -83,10 +83,10 @@
           <mxGeometry x="670" y="590" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-30" value="门票订单管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="650" y="830" width="150" height="90" as="geometry" />
+          <mxGeometry x="650" y="770" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-31" value="提交客房订单" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="680" y="950" width="150" height="90" as="geometry" />
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-31" value="退票处理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="630" y="870" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-32" value="查看攻略详情" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="590" y="1070" width="150" height="90" as="geometry" />
@@ -232,6 +232,9 @@
             <mxPoint x="440" y="1090" as="sourcePoint" />
             <mxPoint x="490" y="1040" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CU-MXhogAJw01CLPIvTh-2" value="查看攻略详情" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1080" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
