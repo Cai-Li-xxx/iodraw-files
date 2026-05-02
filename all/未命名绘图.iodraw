@@ -343,8 +343,8 @@
             <mxPoint x="1269" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-82" value="论坛ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="890" width="120" height="80" as="geometry" />
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-82" value="被举报用户ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="820" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-83" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
