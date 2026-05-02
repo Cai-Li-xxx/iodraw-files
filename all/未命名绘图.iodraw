@@ -634,7 +634,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-152" value="评分" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="-360" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-153" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-152" source="LA4qqZWZyZ-H70sfI4bh-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1155,8 +1155,8 @@
             <mxPoint x="2530" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-297" value="景点信息&lt;div&gt;jingdianxinxi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-297" value="旅游攻略&lt;div&gt;lvyougonglue&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
