@@ -1002,7 +1002,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-261" value="客房退订&lt;div&gt;kefangtuiding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="2220" y="850" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-262" value="对应" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
