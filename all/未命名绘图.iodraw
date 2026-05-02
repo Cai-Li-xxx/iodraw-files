@@ -799,6 +799,9 @@
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-214" value="客房预订&lt;div&gt;kefangyuding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1920" y="385" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-215" value="评论收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
