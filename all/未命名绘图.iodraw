@@ -22,6 +22,9 @@
         <mxCell id="CfST8nCqrGicdxZ53Wky-32" value="填写标题等信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="250" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sEcNSU8wh5ZRGhBZ7rCf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-38" target="sEcNSU8wh5ZRGhBZ7rCf-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-38" value="提交帖子" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="340" width="130" height="70" as="geometry" />
         </mxCell>
@@ -47,7 +50,7 @@
         <mxCell id="CfST8nCqrGicdxZ53Wky-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CfST8nCqrGicdxZ53Wky-45" target="CfST8nCqrGicdxZ53Wky-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CfST8nCqrGicdxZ53Wky-45" value="生成客房预订订单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="CfST8nCqrGicdxZ53Wky-45" value="前端展示帖子" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="945" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CfST8nCqrGicdxZ53Wky-50" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -68,8 +71,14 @@
         <mxCell id="UWG9zyG8TVUnrtbWEr3B-2" value="提交失败" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="820" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="sEcNSU8wh5ZRGhBZ7rCf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sEcNSU8wh5ZRGhBZ7rCf-0" target="sEcNSU8wh5ZRGhBZ7rCf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sEcNSU8wh5ZRGhBZ7rCf-0" value="保存帖子记录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="450" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sEcNSU8wh5ZRGhBZ7rCf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sEcNSU8wh5ZRGhBZ7rCf-1" target="CfST8nCqrGicdxZ53Wky-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sEcNSU8wh5ZRGhBZ7rCf-1" value="管理员审核" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="570" width="130" height="70" as="geometry" />
