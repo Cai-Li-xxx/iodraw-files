@@ -61,6 +61,12 @@
         <mxCell id="u3zOLErY4Gq5_9dt65u4-3" value="资讯发布与维护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="260" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="u3zOLErY4Gq5_9dt65u4-7" value="前端同步展示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="590" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u3zOLErY4Gq5_9dt65u4-8" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="100" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
