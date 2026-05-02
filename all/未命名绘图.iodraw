@@ -79,13 +79,10 @@
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-19" value="用户信息维护" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="677" y="400" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-20" value="填写预约信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-20" value="景点信息维护" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="670" y="590" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-21" value="提交门票订单" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="690" y="710" width="150" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-30" value="浏览酒店资源" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="WbLB6qb5v0eHQtVMuaCp-30" value="门票订单管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="650" y="830" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-31" value="提交客房订单" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
@@ -138,17 +135,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbLB6qb5v0eHQtVMuaCp-45" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="WbLB6qb5v0eHQtVMuaCp-44" vertex="1" connectable="0">
-          <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
-            <mxPoint x="-16" y="-30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-46" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WbLB6qb5v0eHQtVMuaCp-4" target="WbLB6qb5v0eHQtVMuaCp-21" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="497" y="453" as="sourcePoint" />
-            <mxPoint x="642" y="357" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WbLB6qb5v0eHQtVMuaCp-47" value="《include》" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="WbLB6qb5v0eHQtVMuaCp-46" vertex="1" connectable="0">
           <mxGeometry x="-0.161" y="3" relative="1" as="geometry">
             <mxPoint x="-16" y="-30" as="offset" />
           </mxGeometry>
