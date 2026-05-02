@@ -1477,7 +1477,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-367" value="新闻资讯ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-440" width="120" height="80" as="geometry" />
+          <mxGeometry x="-110" y="-470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-368" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LA4qqZWZyZ-H70sfI4bh-361" target="LA4qqZWZyZ-H70sfI4bh-367">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1486,7 +1486,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-369" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="-370" width="120" height="80" as="geometry" />
+          <mxGeometry x="-30" y="-410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-370" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-369" source="LA4qqZWZyZ-H70sfI4bh-361">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1504,7 +1504,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-373" value="简介" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="-450" width="120" height="80" as="geometry" />
+          <mxGeometry x="-290" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-374" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-373" source="LA4qqZWZyZ-H70sfI4bh-361">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1567,7 +1567,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-388" value="图片" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="-290" width="120" height="80" as="geometry" />
+          <mxGeometry x="-600" y="-300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-389" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-388" source="LA4qqZWZyZ-H70sfI4bh-361">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1585,7 +1585,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-392" value="新闻资讯&lt;div&gt;xinwenzixun&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-350" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
