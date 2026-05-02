@@ -48,6 +48,9 @@
         <mxCell id="CfST8nCqrGicdxZ53Wky-50" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="730" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u3zOLErY4Gq5_9dt65u4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sEcNSU8wh5ZRGhBZ7rCf-1" target="u3zOLErY4Gq5_9dt65u4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sEcNSU8wh5ZRGhBZ7rCf-1" value="结果同步数据库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="400" width="130" height="70" as="geometry" />
         </mxCell>
@@ -68,11 +71,19 @@
         <mxCell id="u3zOLErY4Gq5_9dt65u4-2" value="攻略内容审核" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="260" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="u3zOLErY4Gq5_9dt65u4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u3zOLErY4Gq5_9dt65u4-3" target="sEcNSU8wh5ZRGhBZ7rCf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="875" y="360" />
+              <mxPoint x="495" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u3zOLErY4Gq5_9dt65u4-3" value="资讯发布与维护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="260" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u3zOLErY4Gq5_9dt65u4-7" value="前端同步展示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="590" width="130" height="70" as="geometry" />
+          <mxGeometry x="430" y="515" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
