@@ -1585,7 +1585,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-392" value="新闻资讯&lt;div&gt;xinwenzixun&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="-580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-365" y="-740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-393" value="属于" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
