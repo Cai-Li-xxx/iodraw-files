@@ -607,12 +607,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-146" value="最近点击时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="-140" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-147" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-146" source="LA4qqZWZyZ-H70sfI4bh-112">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-270" y="575" as="sourcePoint" />
             <mxPoint x="40" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-148" value="点击次数" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-149" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-148">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="270" as="sourcePoint" />
+            <mxPoint x="80" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
