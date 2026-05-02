@@ -127,6 +127,9 @@
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-30" value="旅游论坛&lt;div&gt;forum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="430" y="930" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-31" value="发帖" style="rhombus;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="450" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
