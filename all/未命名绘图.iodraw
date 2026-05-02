@@ -1300,8 +1300,8 @@
             <mxPoint x="-240" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-329" value="用户&lt;div style=&quot;font-size: 20px;&quot;&gt;yonghu&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-329" value="门票订单&lt;div&gt;menpiaodingdan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
