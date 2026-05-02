@@ -679,8 +679,14 @@
             <mxPoint x="2" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-187" value="处理建议" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-187" value="酒店ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-188" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LA4qqZWZyZ-H70sfI4bh-179" target="LA4qqZWZyZ-H70sfI4bh-187">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="820" as="sourcePoint" />
+            <mxPoint x="1295" y="695" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
