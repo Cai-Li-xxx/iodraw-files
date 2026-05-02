@@ -1512,13 +1512,22 @@
             <mxPoint x="-232" y="88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-375" value="新闻资讯ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="-400" width="120" height="80" as="geometry" />
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-375" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-376" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-375">
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-376" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-375" source="LA4qqZWZyZ-H70sfI4bh-361">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="-175" as="sourcePoint" />
-            <mxPoint x="-222" y="98" as="targetPoint" />
+            <mxPoint x="-470" y="-225" as="sourcePoint" />
+            <mxPoint x="-522" y="48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-377" value="新闻资讯ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-378" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="LA4qqZWZyZ-H70sfI4bh-377">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="-165" as="sourcePoint" />
+            <mxPoint x="-212" y="108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
