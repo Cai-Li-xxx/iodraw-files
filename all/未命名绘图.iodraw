@@ -233,10 +233,10 @@
             <mxPoint x="490" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CU-MXhogAJw01CLPIvTh-2" value="查看攻略详情" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="CU-MXhogAJw01CLPIvTh-2" value="客房预订管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="590" y="972.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CU-MXhogAJw01CLPIvTh-3" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WbLB6qb5v0eHQtVMuaCp-6">
+        <mxCell id="CU-MXhogAJw01CLPIvTh-3" value="" style="endArrow=classic;dashed=1;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WbLB6qb5v0eHQtVMuaCp-6" target="CU-MXhogAJw01CLPIvTh-2">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="430" y="1105" as="sourcePoint" />
             <mxPoint x="600" y="1125" as="targetPoint" />
