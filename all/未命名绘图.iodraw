@@ -464,8 +464,8 @@
         <mxCell id="LA4qqZWZyZ-H70sfI4bh-112" value="景点信息&lt;div&gt;jingdianxinxi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-260" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LA4qqZWZyZ-H70sfI4bh-113" value="发帖" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="460" y="650" width="80" height="80" as="geometry" />
+        <mxCell id="LA4qqZWZyZ-H70sfI4bh-113" value="评论收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
